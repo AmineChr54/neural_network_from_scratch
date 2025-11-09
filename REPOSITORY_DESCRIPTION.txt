@@ -1,0 +1,49 @@
+===========================================
+GITHUB REPOSITORY DESCRIPTION SUGGESTIONS
+===========================================
+
+SHORT DESCRIPTION (for GitHub "About" section):
+-----------------------------------------------
+A two-layer neural network built from scratch in Python/NumPy for MNIST digit classification. Educational project demonstrating neural network fundamentals without deep learning frameworks.
+
+
+TOPICS/TAGS (for GitHub repository):
+------------------------------------
+- neural-network
+- machine-learning
+- mnist
+- deep-learning
+- numpy
+- python
+- from-scratch
+- backpropagation
+- gradient-descent
+- educational
+- digit-recognition
+- computer-vision
+
+
+WEBSITE (Optional):
+-------------------
+You can add a link to the main notebook or documentation if hosted elsewhere.
+
+
+DESCRIPTION TEXT (Alternative versions):
+----------------------------------------
+
+Version 1 (Concise):
+A Python implementation of a neural network built from scratch using NumPy for handwritten digit recognition on the MNIST dataset.
+
+Version 2 (Detailed):
+Educational neural network implementation built entirely from scratch without ML frameworks. Features custom backpropagation, ReLU/Softmax activations, and gradient descent optimization for MNIST digit classification.
+
+Version 3 (Focus on learning):
+Learn neural network fundamentals by exploring this from-scratch implementation. No TensorFlow or PyTorch - just pure Python, NumPy, and math for MNIST digit recognition.
+
+
+HOW TO USE THIS:
+----------------
+1. Go to your GitHub repository settings
+2. Add the description in the "About" section (top right of repository page)
+3. Add relevant topics/tags
+4. This file is for reference only and won't be committed to the repository
